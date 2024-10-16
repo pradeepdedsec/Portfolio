@@ -104,7 +104,7 @@ const Nav = () => {
       {/* work <section></section> */}
 
       <div className="container-fluid bg4" id="Work">
-        <h1 className="cl text-center">My Project Works</h1>
+        <h1 className="cl text-center">My Recent Works</h1>
 
         <div className="card-box    ">
           <div className="row flexi ">
@@ -138,7 +138,7 @@ const Nav = () => {
             </div>
 
           <div className="col-md-4">
-              <a href="https://github.com/pradeepdedsec/test">
+              <a href="https://peaceful-capybara-786e37.netlify.app/">
                 {" "}
                 <div
                   className="card m-3"
