@@ -92,7 +92,7 @@ const Nav = () => {
               <i className="fa-brands fa-linkedin me-1 "></i>LinkedIn
             </button>
           </a>
-          <a target="_blank"  href="https://drive.google.com/file/d/1vZyw1qc7vBTtVEB3v7KrdEJMhUQHUDzf/view?usp=drive_link" >
+          <a target="_blank"  href="https://docs.google.com/document/d/1C4wjESROz5ugcsCcFzjCQF4h2NRkTVLbbaU5xRqdBzM/edit?tab=t.0#heading=h.gjdgxs" >
             {" "}
             <button className=" ms-2 btn btn-outline-dark rounded  ">
               View CV
@@ -109,7 +109,7 @@ const Nav = () => {
         <div className="card-box    ">
           <div className="row flexi ">
           <div className="col-md-4">
-              <a href="https://github.com/pradeepdedsec/COLLAB-FINDER">
+              <a href="https://github.com/pradeepdedsec/Social-Networking-Platform-for-Project-Collaboration">
                 {" "}
                 <div
                   className="card   md:m-3"
@@ -126,7 +126,7 @@ const Nav = () => {
                       <br />
                       <span className="cl">Collab Finder</span>:  A Social Networking Platform for Project Collaboration
 
-                      <a className="ms-2" href="https://github.com/pradeepdedsec/COLLAB-FINDER"><i class="fa-solid fa-link">
+                      <a className="ms-2" href="https://github.com/pradeepdedsec/Social-Networking-Platform-for-Project-Collaboration"><i class="fa-solid fa-link">
                         
                       <span className="cl ms-2">Source Code</span></i> </a>
                     </p>
